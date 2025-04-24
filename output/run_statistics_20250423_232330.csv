@@ -1,0 +1,11 @@
+Metric,Value
+Total Child Links,3206211
+Total Broader Links,1493456
+Unique Relationship Types,10
+Reflexive Links Found,687421
+Duplicate Links,4485616
+Parent-Child Cycles Found,2454
+Cycle Detection Time (s),2.88
+Broader-Than Violations Found,5070
+Broader Analysis Time (s),59.12
+Total Run Time (s),128.11
